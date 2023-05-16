@@ -1,6 +1,8 @@
 const db = require('../../db/productos.json');
+const path = require('path');
 
-const controller = {
+
+ const controller = {
     index: (req, res) => {
         res.redirect("http://localhost:3005/api/productos");
       }
@@ -35,6 +37,13 @@ const controller = {
 
 
   
+},
+image: (req , res) => {
+ const nombreImagen = req.params.id;
+ const rutaImagen = path.join(__dirname, '../../../public/img', nombreImagen + '.jpg');
+
+  // Envía la imagen como respuesta
+  res.sendFile(rutaImagen);
 }
 
 };
