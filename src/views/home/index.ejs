@@ -7,6 +7,11 @@
     <title>Home Portafolio</title>
 </head>
 <body>
-    Soy una api
+    <ul>
+        <% producto.forEach(element => { %>
+          <li><%= element.nombre %></li>
+        <% }) %>
+      </ul>
+      
 </body>
 </html>
