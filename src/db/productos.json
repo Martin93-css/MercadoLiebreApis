@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cable USB",
+    "precio": "1000",
+    "descuento": "15%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 2,
+    "nombre": "Funda Celular",
+    "precio": "3000",
+    "descuento": "15%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 3,
+    "nombre": "Cafetera Moulinex",
+    "precio": "45000",
+    "descuento": "10%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares Xiaomi",
+    "precio": "7750",
+    "descuento": "5%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares Sony",
+    "precio": "9000",
+    "descuento": "10%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 6,
+    "nombre": "Mate Imperial",
+    "precio": "11700",
+    "descuento": "20%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 7,
+    "nombre": "Termo Stanley",
+    "precio": "16000",
+    "descuento": "5%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 8,
+    "nombre": "Zapatillas Converse",
+    "precio": "26000",
+    "descuento": "10%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 9,
+    "nombre": "Samsung Galaxy S10",
+    "precio": "125000",
+    "descuento": "20%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 10,
+    "nombre": "MacBook Pro",
+    "precio": "220000",
+    "descuento": "20%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 11,
+    "nombre": "Xiaomi Note 9",
+    "precio": "77000",
+    "descuento": "60%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 12,
+    "nombre": "Sillon 3 cuerpos",
+    "precio": "99500",
+    "descuento": "50%",
+    "imagen": "sin imagen"
+  },
+  {
+    "id": 13,
+    "nombre": "",
+    "precio": "60500",
+    "descuento": "30%",
+    "imagen": "sin imagen"
+  }
+]
