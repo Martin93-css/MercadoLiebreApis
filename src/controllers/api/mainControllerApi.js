@@ -17,7 +17,7 @@ const path = require('path');
             name: producto.nombre,
             price: producto.precio,
             discount: producto.descuento,
-            image: producto.imagen
+            image: "http://localhost:3005/api/imagen/" + producto.imagen
 
         }
     })

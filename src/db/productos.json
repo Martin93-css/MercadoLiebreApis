@@ -4,90 +4,90 @@
     "nombre": "Cable USB",
     "precio": "1000",
     "descuento": "15%",
-    "imagen": "sin imagen"
+    "imagen": "cable-usbpg"
   },
   {
     "id": 2,
     "nombre": "Funda Celular",
     "precio": "3000",
     "descuento": "15%",
-    "imagen": "sin imagen"
+    "imagen": "funda-silicona"
   },
   {
     "id": 3,
     "nombre": "Cafetera Moulinex",
     "precio": "45000",
     "descuento": "10%",
-    "imagen": "sin imagen"
+    "imagen": "img-cafetera-moulinex"
   },
   {
     "id": 4,
     "nombre": "Auriculares Xiaomi",
     "precio": "7750",
     "descuento": "5%",
-    "imagen": "sin imagen"
+    "imagen": "auriculares-inalámbricos-xiaomi"
   },
   {
     "id": 5,
     "nombre": "Auriculares Sony",
     "precio": "9000",
     "descuento": "10%",
-    "imagen": "sin imagen"
+    "imagen": "auriculares-sony"
   },
   {
     "id": 6,
     "nombre": "Mate Imperial",
     "precio": "11700",
     "descuento": "20%",
-    "imagen": "sin imagen"
+    "imagen": "Mate-Imperial"
   },
   {
     "id": 7,
     "nombre": "Termo Stanley",
     "precio": "16000",
     "descuento": "5%",
-    "imagen": "sin imagen"
+    "imagen": "termo_stanley"
   },
   {
     "id": 8,
     "nombre": "Zapatillas Converse",
     "precio": "26000",
     "descuento": "10%",
-    "imagen": "sin imagen"
+    "imagen": "Zapatilla-Converse"
   },
   {
     "id": 9,
     "nombre": "Samsung Galaxy S10",
     "precio": "125000",
     "descuento": "20%",
-    "imagen": "sin imagen"
+    "imagen": "img-samsung-galaxy-s10"
   },
   {
     "id": 10,
     "nombre": "MacBook Pro",
     "precio": "220000",
     "descuento": "20%",
-    "imagen": "sin imagen"
+    "imagen": "img-macbook-pro-2019"
   },
   {
     "id": 11,
     "nombre": "Xiaomi Note 9",
     "precio": "77000",
     "descuento": "60%",
-    "imagen": "sin imagen"
+    "imagen": "Xiomi-Note-9"
   },
   {
     "id": 12,
     "nombre": "Sillon 3 cuerpos",
     "precio": "99500",
     "descuento": "50%",
-    "imagen": "sin imagen"
+    "imagen": "sillon-3-cuerpos_frente-1"
   },
   {
     "id": 13,
     "nombre": "Monitor 32",
     "precio": "60500",
     "descuento": "30%",
-    "imagen": "sin imagen"
+    "imagen": "monitor-32-lg"
   }
 ]
