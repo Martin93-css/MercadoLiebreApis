@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Electronica"
+  },
+  {
+    "id": 2,
+    "nombre": "Muebles"
+  },
+  {
+    "id": 3,
+    "nombre": "Bazar"
+  },
+  {
+    "id": 4,
+    "nombre": "Calzado"
+  }
+]

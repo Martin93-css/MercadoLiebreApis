@@ -9,9 +9,9 @@ const path = require('path');
       
   ,  
   productos: (req, res) => {
-    const db = require('../../db/productos.json');
+    const dbproductos = require('../../db/productos.json');
 
-    let productos = db.map(producto => {
+    let productos = dbproductos.map(producto => {
         return {
             id: producto.id,
             name: producto.nombre,
@@ -45,6 +45,33 @@ image: (req , res) => {
 
   // Envía la imagen como respuesta
   res.sendFile(rutaImagen);
+},
+categorias:  (req, res) => {
+const dbcategorias = require('../../db/categorias.json');
+
+let categorias = dbcategorias.map(categoria => {
+  return {
+      
+      name: categoria.nombre,
+     
+  }
+})
+
+let respuestaCategoria = categorias; 
+
+let respuesta = {
+  meta: {
+    status: 200,
+    url: "http://localhost:3005/api/categorias"
+  },
+  data: respuestaCategoria
+
+}
+
+res.json(respuesta)
+
+
+
 }
 
 };
